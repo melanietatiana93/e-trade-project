@@ -4,6 +4,9 @@
 ## General Description
 The **E-Trade Sales Insight** report is an analytical tool designed for a multinational e-commerce company. Its main objective is to provide a general estimation of costs and profits for the company in a simple and efficient manner. To ensure data is kept up to date, a gateway has been created to establish a direct connection with the data sources.
 
+<img src="https://github.com/melanietatiana93/e-trade-project/blob/e6eafcc8c2dc199851624ec67961e6e12207b9f9/Captura%20de%20Pantalla%202023-06-17%20a%20la(s)%2012.16.57.png" width="300px">
+
+
 
 ## Specific Description
 This dashboard provides a comprehensive view of key metrics related to online sales. Some of the measures and visualizations included are:
